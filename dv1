@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UbZXTKF.jpg" group-title="LATINO",Pitufo TV
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vyo10wb.png" group-title="LATINO",SEO TV 2 KIDS HD
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GD15EfH.jpg" grouptitle="LATINO",Norte Informativo TV
+https://videohd.live:19360/8076/8076.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qhLnq2W.png" grouptitle="LATINO",Voice Over RTV
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mXpId1b.jpg" grouptitle="LATINO",GenTV HD
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqko3Cm.png" group-title="LATINO",Wow Channel ok
+https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mw8E8GQ.jpg" group-title="LATINO",Wow Movies ok
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPTwSHl.png" group-title="LATINO",SEO TV 1 HD
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iUf7GNf.png" group-title="LATINO",SEO TV 3 NOVELAS HD
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/816xTc2.png" group-title="LATINO",SEO TV 4 PELICULAS HD
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Ao62m.png" group-title="LATINO",SEO TV 6 HD
+https://live.seo.tv.bo/live/6SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EzJHkWV.png" group-title="LATINO",SEO TV 7 YUNGAS HD
+https://live.seo.tv.bo/live/7SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqmKTKFDMCPI-rnyiwkypVBkQt_wq_107vZq9mdm0GQ4qvfrihiuI8x642gcPgPdLHLo&usqp=CAU" group-title="LATINO",Retrox TV
+https://cageu.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oEQDTdu.jpg" grouptitle="LATINO",Ticavision TV HD
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFvUgVh.png" grouptitle="LATINO",Popular TV Chile
+https://tv.streaming-chile.com:1936/8030/8030/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" grouptitle="LATINO",Telesur Costa Rica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAi00Fj6z9Aee9sJcYU3lo_wN_A9kKIQlU_LqWeU7TALZBx2QZ9uE83kE0FSSlR8nf3k&usqp=CAU" group-title="LATINO",Solidaria tv Argentina
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",meganettv
+https://cageu.bozztv.com/ssh101/ssh101/meganettv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",delestetv
+https://cageu.bozztv.com/ssh101/ssh101/delestetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",canallms
+https://cageu.bozztv.com/ssh101/ssh101/canallms/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",unicentro
+https://cageu.bozztv.com/ssh101/ssh101/unicentro123/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",Multicanal
+https://cageu.bozztv.com/ssh101/ssh101/KIOCApP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",gogoplay
+https://cageu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",gogoplayhd
+https://cageu.bozztv.com/ssh101/ssh101/gogoplayhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",iqchannel
+https://cageu.bozztv.com/ssh101/ssh101/iqchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",latacungatv
+https://cageu.bozztv.com/ssh101/ssh101/streamlatacungatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",novusmovies
+https://cageu.bozztv.com/ssh101/ssh101/novusmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",ticktv
+https://cageu.bozztv.com/ssh101/ssh101/ticktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",retrotv
+https://cageu.bozztv.com/ssh101/ssh101/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO",apaninestv
+https://cageu.bozztv.com/ssh101/ssh101/apaninestv/playlist.m3u8
